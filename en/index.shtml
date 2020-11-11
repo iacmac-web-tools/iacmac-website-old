@@ -83,12 +83,12 @@
   <td bgcolor="#10715d"><img src="../img/head5a.gif" width="72" height="36" alt="" border="0"></td>
   <td bgcolor="#d8d8d8" background="/iacmac/img/head5b.gif" width="703">
   <table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
-    <td background="/iacmac/img/tab2.gif" width="138" align="center"><div id="tab1"><a name="info">IACMAC</a></div></td>
-<!--    <TD background="/iacmac/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="/iacmac/en/member.shtml">Membership</a></div></TD>-->
-    <td background="/iacmac/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="confer.shtml">Conferences</a></div></td>
-<!--    <TD background="/iacmac/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="/iacmac/en/chronicle.shtml">Chronicle</a></div></TD>-->
-    <td background="/iacmac/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="publications.shtml">Publications</a></div></td>
-    <td background="/iacmac/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="rosnet/index.htm">RosNet</a></div></td>
+    <td background="/img/tab2.gif" width="138" align="center"><div id="tab1"><a name="info">IACMAC</a></div></td>
+<!--    <TD background="/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="/iacmac/en/member.shtml">Membership</a></div></TD>-->
+    <td background="/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="confer.shtml">Conferences</a></div></td>
+<!--    <TD background="/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="/iacmac/en/chronicle.shtml">Chronicle</a></div></TD>-->
+    <td background="/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="publications.shtml">Publications</a></div></td>
+    <td background="/img/tab1.gif" width="138" align="center"><div id="tab1"><a href="rosnet/index.htm">RosNet</a></div></td>
     <td><img src="../img/px.gif" width="1" height="36" alt="" border="0"></td>
   </tr></table>
   </td>
